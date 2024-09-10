@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pinclecor.github.io/sitemap.html.gz
+Sitemap: https://pinclecor.github.io/app/sitemap.html.gz
+Sitemap: https://pinclecor.github.io/assets/sitemap.html.gz
+Sitemap: https://pinclecor.github.io/css/sitemap.html.gz
+Sitemap: https://pinclecor.github.io/includes/sitemap.html.gz
+Sitemap: https://pinclecor.github.io/item/sitemap.html.gz
+Sitemap: https://pinclecor.github.io/src/sitemap.html.gz
